@@ -4,17 +4,36 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ## Resources: Jupyter Notebook, LoanStats_2019Q1.csv
 
-## Results: (Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.)
+## Results: 
 #### Naive Random Oversampling
 
+- Balanced Accuracy Scores
+- Precision
+- Recall
+
 #### SMOTE
+- Balanced Accuracy Scores
+- Precision
+- Recall
 
 #### Undersampling
+- Balanced Accuracy Scores
+- Precision
+- Recall
 
 #### SMOTEENN
+- Balanced Accuracy Scores
+- Precision
+- Recall
 
 #### Balanced Random Forest Classifier
+- Balanced Accuracy Scores
+- Precision
+- Recall
 
 #### Easy Ensemble AdaBoost Classifier
+- Balanced Accuracy Scores
+- Precision
+- Recall
 
 ## Summary: (Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.)
