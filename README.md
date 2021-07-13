@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Machine Learning Credit Risk Analysis
 ## Overview of the analysis:
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Apply machine learning to assess credit card risk. Then, evaluate the performance of these machine learning models and make a written recommendation on whether they should be used to predict credit risk.
 
